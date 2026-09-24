@@ -1,4 +1,3 @@
-*.swift
 *.xcodeproj
 *.xcworkspace
 .DS_Store
